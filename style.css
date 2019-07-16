@@ -1,0 +1,14 @@
+html {box-sizing: border-box;}
+*, *::before, *::after {box-sizing: inherit;}
+
+
+#clock {
+    width: 830px;
+    margin: 150px;
+    text-align: center;
+    font-size: 90px;
+    color: white;
+    background: #143153;
+    height: 450px;
+    padding: 150px;
+}
